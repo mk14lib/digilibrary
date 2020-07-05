@@ -1,0 +1,70 @@
+.banner {
+	text-align: center;
+}
+
+.banner img{
+	margin: 45px;
+	width: 30%;
+}
+
+.title {
+	font-size: 30px;
+	font-weight: bold;
+	padding-bottom: 0px;
+}
+
+.list {
+	margin: 150px;
+	margin-top: 0px;
+	margin-bottom: 100px;
+}
+
+body p span {
+
+	color: white;
+	margin-left: 100px;
+	
+}
+
+body p {
+	padding-top: 20px;
+	padding-bottom: 25px;
+	font-size: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+	text-align: justify;
+}
+
+
+.list a {
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+
+.list ul {
+	list-style: none;
+	
+
+}
+
+.list ul li {
+	padding: 12px;
+	padding-top: 0px;
+	transition: 0.3s;
+	font-size: 17px;
+}
+
+.sub {
+	padding-top: 20px;
+	margin-left: 150px;
+}
+
+footer {
+	text-align: center;
+	margin: 10px;
+}
+
+
+.list ul li:hover{ text-decoration: none; opacity: 1; font-size: 21px;}
+
