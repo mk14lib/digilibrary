@@ -66,5 +66,5 @@ footer {
 }
 
 
-.list ul li:hover{ text-decoration: none; opacity: 1; font-size: 15px;}
+a:hover{ opacity: 1; font-size: 15px;}
 
